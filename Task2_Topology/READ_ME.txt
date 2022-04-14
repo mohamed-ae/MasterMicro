@@ -3,6 +3,7 @@
   - .Net Framework 4.7.2
   - Newtonsoft.Json package for Json operations
   - Task2_Topology: the library project
+  - Library_DLLs folder: the built DLL of the Topology project + the DLL for Newtonsoft.Json package
   - TaskTopologyTesting project in Solution: is just a simple console application to test manually.
 
 *API explanation:
